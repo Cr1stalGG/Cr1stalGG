@@ -1,7 +1,5 @@
 [![HEADER](https://github.com/Cr1stalGG/Cr1stalGG/blob/main/github-header-image.png)]()
 
-## I'm a beginner Java developer in Hrodna.
-
 ## Languages and tools:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
