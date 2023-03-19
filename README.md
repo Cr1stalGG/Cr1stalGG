@@ -1,7 +1,9 @@
 [![HEADER](https://github.com/Cr1stalGG/Cr1stalGG/blob/main/github-header-image.png)]()
 
 ## My stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cr1stalGG&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cr1stalGG&show_icons=true&theme=vision-friendly-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1stalGG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and tools:
 <p align="left"> 
